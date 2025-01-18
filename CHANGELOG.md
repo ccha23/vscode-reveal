@@ -26,7 +26,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Integrated Grid css (https://korywakefield.com/iota/)
 - Add new snippets for Slide and Fragments
 
-## 4.1.3
+## 4.3.1
 
 - Cannot Switch Between Different Markdown File Freely [858](https://github.com/evilz/vscode-reveal/issues/858)
 - Custom themes applying inconsistently [852](https://github.com/evilz/vscode-reveal/issues/852)
@@ -48,7 +48,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## 4.1.0
 
-- update Reveal.js to 4.1.3
+- update Reveal.js to 4.3.1
 - a lot of markdown feature add
 - Samples
 - kroki support
